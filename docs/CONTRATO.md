@@ -1,18 +1,19 @@
 # Contrato de equipo · JASD
 
 ## Compromisos
+Trabajaremos en el proyecto aproximadamente 10 horas semanales. Si alguien no cumple con las horas requeridas de forma constante, se le comentará la queja al profesor.
 
 ## Comunicación
 
 ## Decisiones y conflictos
 
-## Calidad
-Se acuerda que cada miembro del equipo trabajará en una rama independiente. Antes de realizar un merge de un Pull Request (PR) a la rama ```main```, se deberá comprobar que se cumplen los requisitos mínimos establecidos para considerar un Issue como finalizado.
+### Toma de decisiones
 
-El trabajo realizado deberá ser revisado por al menos un miembro adicional del equipo, distinto de la persona que haya realizado la tarea. Como situación ideal, los cuatro miembros del equipo revisarán el trabajo antes de realizar el merge. 
-
-Una vez creado el PR y antes de realizar el merge, se avisará al resto del equipo a través de Discord para que puedan realizar la revisión y dar su visto bueno.
+Para la toma de decisiones, se hablaría entre todos los integrantes del equipo hasta llegar a un acuerdo. En caso de no llegar a ningún acuerdo, votaríamos y decidiríamos 
+por mayoría, y en caso de empate lo elegiríamos a suertes.
 
 La revisión deberá comprobar, como mínimo, que la funcionalidad cumple los requisitos definidos en el Issue, que no introduce errores conocidos y que el código mantiene las convenciones establecidas por el equipo con anterioridad.
+En caso de la aparición de conflictos en cuanto a fala de implicación, la primmera opción siempre será hablarlo entre todos los integrantes para encontrar un remedio, en caso
+de no encontrar ninguna solución, se acudiría al equipo educativo para tomar medidas más serias e incluso barajar la expusión de dicho integrante que no esté implicado lo suficiente.
 
-El plazo establecido para realizar las revisiones será de 3 horas desde el momento en que se solicite la revisión. Transcurrido este plazo, si al menos un miembro del equipo ha revisado el trabajo y ha dado su visto bueno, se podrá proceder al merge, siempre que se cumplan el resto de requisitos establecidos para cerrar el Issue.
+## Calidad
