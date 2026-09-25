@@ -13,6 +13,6 @@ El trabajo realizado deberá ser revisado por al menos un miembro adicional del 
 
 Una vez creado el PR y antes de realizar el merge, se avisará al resto del equipo a través de Discord para que puedan realizar la revisión y dar su visto bueno.
 
-La revisión deberá comprobar, como mínimo, que la funcionalidad cumple los requisitos definidos en el Issue, que no introduce errores conocidos y que el código mantiene las convenciones establecidas por el equipo.
+La revisión deberá comprobar, como mínimo, que la funcionalidad cumple los requisitos definidos en el Issue, que no introduce errores conocidos y que el código mantiene las convenciones establecidas por el equipo con anterioridad.
 
 El plazo establecido para realizar las revisiones será de 3 horas desde el momento en que se solicite la revisión. Transcurrido este plazo, si al menos un miembro del equipo ha revisado el trabajo y ha dado su visto bueno, se podrá proceder al merge, siempre que se cumplan el resto de requisitos establecidos para cerrar el Issue.
