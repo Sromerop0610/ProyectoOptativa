@@ -1,0 +1,44 @@
+# Detección de un problema
+
+## Ideas individuales
+
+### Idea Jesús:
+
+Red social para amantes de la música. La idea no sería hacer un nuevo spotify, está más enfocado a una comunidad concreta que disfruta de entender las canciones, de descubrir nueva musica, 
+de compartir sus gustos y nutrirse musicalmente de usuarios con la misma intención. 
+
+El problema principal sería la curiosidad y la dificultad que existe en personas que escuchan música durante casi todo el día para descubrir nueva música y expresarse compartiendo su
+opinión y sus gustos con personas a las que realmente puedan interesarle. Añadiendo también alguna funcionalidad extra que haga que destaque.
+
+El planteamiento principal está directamente relacionada con la música, pero no sería escuchar música como tal, sería hacer una especie de mezcla entre la parte social de spotify, la parte
+de investigación de genius, la parte de descubrir qué música estás escuchando para no quedarte sin saber qué canción es exactamente (shazam). Además de poder compartir tus opiniones y reseñas 
+sobre tu música favorita con gente a quien realmente le interese, y poder nutrirte de los gustos y descubrimientos musicales de otros usuarios.
+
+### Idea Dayron:
+
+Aplicacion web que se encarge de analizar tu historial de partidas de valorant mediante una api y utiliza IA para detectar un estilo de juego y recomendarle roles y personajes acorde a ese estilo de juego
+
+Muchos jugadores no saben qué rol o personajes encajan realmente con su forma de jugar. Eligen por moda o impulso, estancándose de rango al no entender qué fallos cometen ni qué agentes potencian sus habilidades.
+
+La aplicacion va a ir dirigida tanto a personas que estan empezando, personas que estan estancandas y quieren saber sus errores, y personas que quieren encontrar su estilo de juego
+
+La aplicacion se diferneciaria de las demas de forma que las aplicaciones que ya hay solo te muestran datos, esta te los muestra y los explica de forma que la persona lo entienda y le sirva para aprender
+
+### Idea Sara:
+Aplicación para la diabetes adaptada para niños.
+
+Las aplicaciones para la gestión de la diabetes (el calculo de bolos y el registro de la azucar) es muy rudimentaria, es una aplicación muy básica y mecánica, y con una forma de manejar los datos que los niños más pequeños tardan en entender.
+
+Mi propuesta es una aplicación de gestión de la diabetes adaptada a niños, que permita registrar los niveles de glucosa, consultar información y realizar cálculos relacionados con la administración de insulina mediante una interfaz visual, sencilla y comprensible.
+
+La aplicación estaría vinculada a la cuenta, en la misma, de un adulto. Donde el adulto pudiese comprobar los datos e introducirlos también.
+
+### Idea Abel:
+Aplicación de intercambio de libros/comics/mangas, para aquellas personas que prefieran leer en fisico y no en digital (teniendo en cuenta las complicaciones para las personas mayores como configurar
+el ebook, comprar o descargar por internet con un ordenador y luego pasarlo, etc). Ademas de poder expandir tu cultura lectora sin "gastar" dinero, ya que lo intercambiarias con otras personas que 
+esten interesadas en cambiar sus libros ya leidos. 
+
+
+### Análisis de competencia:
+
+### Propuesta de valor:
