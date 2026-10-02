@@ -38,11 +38,6 @@ Aplicación de intercambio de libros/comics/mangas, para aquellas personas que p
 el ebook, comprar o descargar por internet con un ordenador y luego pasarlo, etc). Ademas de poder expandir tu cultura lectora sin "gastar" dinero, ya que lo intercambiarias con otras personas que 
 esten interesadas en cambiar sus libros ya leidos. 
 
-## Idea seleccionada:
-
-### Necesidad:
-
-### Users persona:
 
 ### Análisis de competencia:
 
