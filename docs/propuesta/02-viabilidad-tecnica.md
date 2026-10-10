@@ -1,5 +1,48 @@
 # VIABILIDAD TÉCNICA
 
+## REQUISITOS FUNCIONALES
+
+#### MUST:
+- El niño podrá iniciar sesión en su perfil.
+- El padre, madre o tutor podrá iniciar sesión en su perfil.
+- El adulto podrá crear y configurar el perfil del niño.
+- El padre, madre o tutor podrá enlazar su perfil con el del niño.
+- El padre/madre/tutor podrá modificar los parámetros usados por la calculadora.
+- El niño puede registrar sus niveles de glucosa.
+- El niño podrá registrar sus comidas y los datos nutricionales necesarios para el cálculo.
+- El niño puede calcular su insulina.
+- El padre/madre/tutor podrá enlazar su perfil con el de su hijo/a.
+
+#### SHOULD:
+- El niño recibe alertas para medir su glucosa.
+- El niño podrá consultar su historial de registros de glucosa.
+- El padre/madre/tutor podrá personalizar las horas habituales de recordatorio.
+- El padre/madre/tutor podrá revisar los registros de glucosa del niño.
+- El padre/madre/tutor recibe alertas para registrar la glucosa de su hijo/a.
+- El padre/madre/tutor recibe informes semanales de autonomía de su hijo/a.
+
+#### COULD:
+- El niño/a tendrá contenido didáctico para aumentar sus conocimientos sobre su condición concreta (aprendizaje progresivo y organizado).
+- Cada tema tendrá un juego o cuestionario interactivo para que el niño/a pueda aprender sobre la diabetes de forma progresiva y organizada.
+
+#### WON'T:
+- El niño/a tendrá un personaje con podrá ir subiendo de nivel con el tiempo si va realizando las tareas de gestión de la diabetes.
+
+#### RECORRIDO MÍNIMO DEL USUARIO:
+
+| PADRE | HIJO/A |
+| :--- | :--- |
+| Registro/inicio de sesión | Registro/inicio de sesión |
+| Vincular perfiles | Vincular perfiles |
+| Dashboard principal (opciones de nuevo registro / calculadora) | Dashboard principal (opciones de nuevo registro / calculadora) |
+| Configuración de parámetros | |
+| | Registro de glucosa |
+| | Calculadora Visual |
+| | Resultado de bolus (Muestra la dosis exacta) |
+| | Confirmación (Guardar registro en el historial) |
+| Notificación/alerta de nuevo registro | |
+| Supervisión/Corrección del nuevo registro | |
+
 ## REQUISITOS TÉCNICOS
 ### FRONTEND (React)
 
