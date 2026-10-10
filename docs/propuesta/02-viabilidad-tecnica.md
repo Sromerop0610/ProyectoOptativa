@@ -213,3 +213,42 @@ Almacena las preferencias y alertas de recordatorio personalizadas.
 | `time` | `String` | Hora programada (ej. `"08:00"`, `"14:30"`). |
 | `daysOfWeek` | `Array<Number>` | Días activos (`1` = Lunes, `7` = Domingo). |
 | `enabled` | `Boolean` | Estado del recordatorio (`true` / `false`). |
+
+## 3- Evaluación de capacidades del equipo
+
+### Inventario de habilidades
+* **O** Sí
+* **X** No
+* **-** Más o menos
+
+| Nombres | React | Node + express | MongoDB | Git |
+| :--- | :---: | :---: | :---: | :---: |
+| Dayron | X | - | O | O |
+| Abel | X | X | - | O |
+| Jesús | X | X | - | O |
+| Sara | - | - | - | O |
+
+### ¿Qué necesitaréis aprender?
+Tras valorar en conjunto las habilidades de cada miembro, notamos la falta de habilidad en el ámbito de React y de Node + express a nivel general. Vamos a necesitar nutrirnos más en ese área para hacer un mejor proyecto.
+
+---
+
+## 4- Identificación de riesgos técnicos
+
+1. **Falta de tiempo y disponibilidad por sobrecarga académica/laboral.**
+   * **Estrategia de mitigación:** Encontrar una manera óptima de mantener al equipo informado sobre la disponibilidad que tendremos cada integrante semanalmente, con la finalidad de encontrar un equilibrio entre todos acorde al tiempo disponible de cada uno. En nuestro caso, creamos un canal en nuestro servidor de Discord `#disponibilidad` para informar al equipo en caso de encontrar algún inconveniente.
+
+2. **Curva de aprendizaje y falta de conocimiento en las tecnologías aplicadas.**
+   * **Estrategia de mitigación:** En nuestro caso, ninguno de los integrantes del equipo está realmente familiarizado ni tiene una base contundente en ninguna de las tecnologías que se nos exige utilizar, por lo que una buena estrategia de mitigación sería poner un esfuerzo extra individualmente para aprender lo más rápido posible a utilizar las tecnologías exigidas y disminuir dicho riesgo/miedo lo máximo posible.
+
+3. **Sobreestima del alcance del proyecto en relación al tiempo disponible.**
+   * **Estrategia de mitigación:** De primera mano y a la hora de proponer la idea, es fácil proponer ideas y funcionalidades para el proyecto, pero no siempre es posible llevarlo todo a cabo. Para que esto no ocurra, lo que podríamos hacer es un ajuste cada cierto tiempo para evaluar qué funcionalidades creemos que sí que podremos implementar y cuáles no, basándonos en el sistema de prioridad propuesto.
+
+4. **Mala comunicación y cuellos de botella en la toma de decisiones.**
+   * **Estrategia de mitigación:** Designar un portavoz/líder de proyecto por sprint que centralice la toma de decisiones técnicas rápidas cuando haya desacuerdos, y mantener el tablero del proyecto actualizado.
+
+5. **Desigualdad en la carga de trabajo o desmotivación de algún integrante.**
+   * **Estrategia de mitigación:** Descomponer el trabajo en tareas acordes al tiempo disponible de cada uno según la semana (estimadas en un máximo de 2 a 4 horas de desarrollo cada una). Se realizará una revisión breve de estado por semana para detectar bloqueos a tiempo y poder reasignar o ayudar con ciertas tareas de forma equilibrada entre los miembros del equipo.
+
+6. **Exposición accidental de credenciales o datos sensibles de salud.**
+   * **Estrategia de mitigación:** Proteger todas las rutas del servidor mediante token/sesión desde su creación y utilizar archivos de variables de entorno (`.env`), los cuales se incluirán obligatoriamente en el archivo `.gitignore` desde el primer commit para evitar subir contraseñas o claves secretas a GitHub.
