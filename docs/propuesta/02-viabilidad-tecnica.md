@@ -40,8 +40,8 @@
 | | Calculadora Visual |
 | | Resultado de bolus (Muestra la dosis exacta) |
 | | Confirmación (Guardar registro en el historial) |
-| Notificación/alerta de nuevo registro | |
-| Supervisión/Corrección del nuevo registro | |
+| Consulta del historial y registros guardados del menor | |
+
 
 ## REQUISITOS TÉCNICOS
 ### FRONTEND (React)
